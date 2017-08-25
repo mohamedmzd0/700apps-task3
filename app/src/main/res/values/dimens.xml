@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">5dp</dimen>
+    <dimen name="row_item_w">50dp</dimen>
+    <dimen name="row_item_h">45dp</dimen>
+    <dimen name="text_padding">7dp</dimen>
+    <dimen name="textsize">12sp</dimen>
+    <dimen name="id_h">30dp</dimen>
+    <dimen name="id_item_h">28dp</dimen>
+    <dimen name="id_item_w">38dp</dimen>
+    <dimen name="id_w">40dp</dimen>
+    <dimen name="price_w">45dp</dimen>
+    <dimen name="product_name_w">85dp</dimen>
+    <dimen name="textsize2">10sp</dimen>
+    <dimen name="table_item_margin">1dp</dimen>
+
+</resources>
